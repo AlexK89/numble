@@ -8,10 +8,11 @@ Here's the clean markdown table without the placeholder links:
 
 | Color Role | Numble Nook (Core) | Aqua Explorer (Blue) | Berry Blast (Pink) |
 |---|---|---|---|
-| **Primary** | ![](https://img.shields.io/badge/-6BCB77-6BCB77)`#6BCB77` | `#1976D2`![](https://img.shields.io/badge/-1976D2-1976D2) | ![](https://img.shields.io/badge/-D81B60-D81B60)`#D81B60` |
-| **Secondary 1** | ![](https://img.shields.io/badge/-FFC107-FFC107)`#FFC107` | `#00ACC1`![](https://img.shields.io/badge/-00ACC1-00ACC1) | ![](https://img.shields.io/badge/-8E24AA-8E24AA)`#8E24AA` |
-| **Secondary 2** | ![](https://img.shields.io/badge/-42A5F5-42A5F5)`#42A5F5` | `#8BC34A`![](https://img.shields.io/badge/-8BC34A-8BC34A) | ![](https://img.shields.io/badge/-00BCD4-00BCD4)`#00BCD4` |
-| **Tertiary** | ![](https://img.shields.io/badge/-FF7043-FF7043)`#FF7043` | `#FF4500`![](https://img.shields.io/badge/-FF4500-FF4500) | ![](https://img.shields.io/badge/-FFEB3B-FFEB3B)`#FFEB3B` |
-| **Background** | ![](https://img.shields.io/badge/-FFFFFF-FFFFFF)`#FFFFFF` | `#E1F5FE`![](https://img.shields.io/badge/-E1F5FE-E1F5FE) | ![](https://img.shields.io/badge/-FCE4EC-FCE4EC)`#FCE4EC` |
-| **Text/Dark** | ![](https://img.shields.io/badge/-212121-212121)`#212121` | `#1A237E`![](https://img.shields.io/badge/-1A237E-1A237E) | ![](https://img.shields.io/badge/-4A148C-4A148C)`#4A148C` |
-
+| **Primary (Main Brand/Theme)** | ![](https://img.shields.io/badge/-7ACC00-7ACC00)`#7ACC00` | ![](https://img.shields.io/badge/-3498DB-3498DB)`#3498DB` | ![](https://img.shields.io/badge/-F06292-F06292)`#F06292` |
+| **Secondary 1 (Accent/Support)** | ![](https://img.shields.io/badge/-FFD700-FFD700)`#FFD700` | ![](https://img.shields.io/badge/-A7D9F8-A7D9F8)`#A7D9F8` | ![](https://img.shields.io/badge/-9B59B6-9B59B6)`#9B59B6` |
+| **Secondary 2 (Complementary Accent)** | ![](https://img.shields.io/badge/-48BFE3-48BFE3)`#48BFE3`| ![](https://img.shields.io/badge/-2ECC71-2ECC71)`#2ECC71` | ![](https://img.shields.io/badge/-FF7043-FF7043)`#FF7043` |
+| **Background (Light UI)** | ![](https://img.shields.io/badge/-F8F8F8-F8F8F8)`#F8F8F8` | ![](https://img.shields.io/badge/-F8F8F8-F8F8F8)`#F8F8F8` | ![](https://img.shields.io/badge/-F8F8F8-F8F8F8)`#F8F8F8` |
+| **Surface (Clean UI Elements)** | ![](https://img.shields.io/badge/-FFFFFF-FFFFFF)`#FFFFFF` | ![](https://img.shields.io/badge/-FFFFFF-FFFFFF)`#FFFFFF` | ![](https://img.shields.io/badge/-FFFFFF-FFFFFF)`#FFFFFF` |
+| **Text/Dark** | ![](https://img.shields.io/badge/-333333-333333)`#333333` | ![](https://img.shields.io/badge/-333333-333333)`#333333` | ![](https://img.shields.io/badge/-333333-333333)`#333333` |
+| **Success/Positive Feedback** | ![](https://img.shields.io/badge/-7ACC00-7ACC00)`#7ACC00` | ![](https://img.shields.io/badge/-7ACC00-7ACC00)`#7ACC00` | ![](https://img.shields.io/badge/-7ACC00-7ACC00)`#7ACC00` |
+| **Error/Negative Feedback** | ![](https://img.shields.io/badge/-E74C3C-E74C3C)`#E74C3C` | ![](https://img.shields.io/badge/-E74C3C-E74C3C)`#E74C3C` | ![](https://img.shields.io/badge/-E74C3C-E74C3C)`#E74C3C` |
